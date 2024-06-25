@@ -1,1 +1,4 @@
-# ListaEncadeadaDinamica
+Esse projeto foi proposto na aula de Estrutura de Dados do curso Sistemas de Informação do Senac Santo Amaro para aprimorar a lógica de conceitos fundamentais como nós, ponteiros, e memória dinâmica.
+Ao contrário de arrays, as listas encadeadas não têm um tamanho fixo. Elas podem crescer e encolher dinamicamente, o que é útil para aplicativos onde o número de elementos pode variar.
+Muitas outras estruturas de dados, como pilhas, filas, listas duplamente encadeadas e listas circulares, são baseadas no conceito de listas encadeadas. Entender listas encadeadas facilita o aprendizado e a implementação dessas outras estruturas.
+Implementar listas encadeadas e as operações sobre elas (como inserção, remoção e busca) ajudaram a desenvolver habilidades de programação, especialmente em manipulação de ponteiros e referência a objetos.
